@@ -12,45 +12,45 @@ Description:
 
 The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories. The following are the features in the dataset:
 
-Order ID:	Unique Order ID of a product
+Order ID:          Unique Order ID of a product
 <br>
-Order Date:	Order Placement Date
+Order Date:	       Order Placement Date
 <br>
-Ship Date:	Shipment Date of the placed order
+Ship Date:	        Shipment Date of the placed order
 <br>
-Aging:	Used to Create Histogram Bin
+Aging:	            Used to Create Histogram Bin
 <br>
-Ship Mode:	Shipment mode of placed order
+Ship Mode:	        Shipment mode of placed order
 <br>
-Product Category:	Product Category
+Product Category:	 Product Category
 <br>
-Product:	Name of the Product
+Product:	          Name of the Product
 <br>
-Sales:	Sales Amount
+Sales:	            Sales Amount
 <br>
-Quantity:	The amount or number of a material
+Quantity:	         The amount or number of a material
 <br>
-Discount:	A deduction from the usual cost of something
+Discount:	         A deduction from the usual cost of something
 <br>
-Profit:	A financial advantage or benefit
+Profit:	           A financial advantage or benefit
 <br>
-Shipping Cost:	The amount required to ship the placed order
+Shipping Cost:	    The amount required to ship the placed order
 <br>
-Order Priority:	Precedence of placed order
+Order Priority:	   Precedence of placed order
 <br>
-Customer ID:	Unique Customer ID
+Customer ID:	      Unique Customer ID
 <br>
-Customer Name:	Name of the Customer
+Customer Name:	    Name of the Customer
 <br>
-City:	Unique City Name
+City:	             Unique City Name
 <br>
-State:	Unique State Name
+State:	            Unique State Name
 <br>
-Country:	Unique Country Name
+Country:	          Unique Country Name
 <br>
-Region:	Especially the part of a country
+Region:	           Especially the part of a country
 <br>
-Months:	The month of placing the order
+Months:	           The month of placing the order
 <br>
 The following project tasks are required to be performed in Excel:
 
